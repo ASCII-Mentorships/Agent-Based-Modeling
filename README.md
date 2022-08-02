@@ -29,7 +29,7 @@ Develop a simulation of ........
 
 ### Project Leaders
 1. [Shikha Bhat](https://github.com/shikha-16) (2019A7PS0063G)
-2. [Ruturaj Godse](https://github.com/Ruturaj-Godse) (2019A70002G)
+2. [Ruturaj Godse](https://github.com/Ruturaj-Godse) (2019A7PS0002G)
 
 ### Faculty Supervisor
 [Dr. Vinayak Naik](https://github.com/vinayaksn)
