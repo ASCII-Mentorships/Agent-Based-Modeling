@@ -19,7 +19,7 @@ Develop a simulation of ........
 <img align = "right" src="https://user-images.githubusercontent.com/68149849/182371871-ca5654ab-83bb-41eb-ad77-d918da70b14a.png" alt="NetLogo" width="50"/>
 
 - Basic knowledge of programming
-- Download NetLogo from their official website: http://ccl.northwestern.edu/netlogo/download.shtml. Enter BITS email id. 
+- Download NetLogo on your PC from their [official website](http://ccl.northwestern.edu/netlogo/download.shtml). Enter your BITS email ID. 
 
 
 
