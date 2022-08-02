@@ -21,7 +21,8 @@ Develop a simulation of ........
 - Basic knowledge of programming
 - Download NetLogo on your PC from their [official website](http://ccl.northwestern.edu/netlogo/download.shtml). Enter your BITS email ID. 
 
-
+## Expectations
+By the end of the project, you should have a well-developed simulation environment, and be able to plot graphs and draw inferences from the same. You will learn how to code in NetLogo and the code should be clean and efficient, with proper commenting and documentations of each experiment. The simulation should be easy to operate and visually appealing.
 
 ## Team
 
