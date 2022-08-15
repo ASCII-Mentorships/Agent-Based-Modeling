@@ -5,14 +5,13 @@
 Agent based modeling (ABM) is a bottom-up simulation technique where we analyze a system by its individual agents that interact with each other. In this project, we will learn how to simulate different environments using [NetLogo](https://ccl.northwestern.edu/netlogo/) which was developed at Northwestern's Center for Connected Learning and Computer-Based Modeling (CCL).
 
 
-## Problem Statement
-Develop a simulation of ........
+## Project Idea
+Come up with your own real world problem or choose one of the ideas listed below to develop a simulation for the same. Some sample projects will also be available when you download Netlogo.
 
+[Ideas for Simulation Project](https://ccl.northwestern.edu/courses/mam2005/Ideas_for_models.htm)
 
-
-
-
-
+### Bonus
+Later on we can have AI also involved in this by getting data points from the simulation running our algorithm in python or something and then using the results to improve the simulation parameters
 
 ## Prerequisites
 
@@ -23,6 +22,7 @@ Develop a simulation of ........
 
 ## Expectations
 By the end of the project, you should have a well-developed simulation environment, and be able to plot graphs and draw inferences from the same. You will learn how to code in NetLogo and the code should be clean and efficient, with proper commenting and documentations of each experiment. The simulation should be easy to operate and visually appealing.
+
 
 ## Team
 
