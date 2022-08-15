@@ -6,7 +6,7 @@ Agent based modeling (ABM) is a bottom-up simulation technique where we analyze 
 
 
 ## Project Idea
-Come up with your own real world problem or choose one of the ideas listed below to develop a simulation for the same. Some sample projects will also be available when you download Netlogo.
+Come up with your own real world problem or choose one of the ideas listed below to develop a simulation for the same. Some sample projects will also be available when you download NetLogo.
 
 [Ideas for Simulation Project](https://ccl.northwestern.edu/courses/mam2005/Ideas_for_models.htm)
 
