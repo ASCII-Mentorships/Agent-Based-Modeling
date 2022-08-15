@@ -11,7 +11,7 @@ Come up with your own real world problem or choose one of the ideas listed below
 [Ideas for Simulation Project](https://ccl.northwestern.edu/courses/mam2005/Ideas_for_models.htm)
 
 ### Bonus
-Later on we can have AI also involved in this by getting data points from the simulation running our algorithm in python or something and then using the results to improve the simulation parameters
+Later on we can have AI also involved in this by getting data points from the simulation running our algorithm in python and then using the results to improve the simulation parameters.
 
 ## Prerequisites
 
