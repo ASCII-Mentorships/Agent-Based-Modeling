@@ -23,6 +23,20 @@ Later on we can have AI also involved in this by getting data points from the si
 ## Expectations
 By the end of the project, you should have a well-developed simulation environment, and be able to plot graphs and draw inferences from the same. You will learn how to code in NetLogo and the code should be clean and efficient, with proper commenting and documentations of each experiment. The simulation should be easy to operate and visually appealing.
 
+## Timeline
+
+### Week 1-2
+Learn how to use NetLogo and come up with the exact problem statement.
+
+### Week 3-4
+Gather information about the problem and understand and decide the control parameters for the simulation. Set up a basic simulation using the same.
+
+### Week 5-6
+Write mathematical models and AI/ML based algorithms to optimize the parameter values used in the simulation to find the best solution.
+
+### Week 7-8
+Obtain results by running the simulations along with the models and present them in a proper format.
+
 
 ## Team
 
