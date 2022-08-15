@@ -26,16 +26,21 @@ By the end of the project, you should have a well-developed simulation environme
 ## Timeline
 
 ### Week 1-2
-Learn how to use NetLogo and come up with the exact problem statement.
+- Introduction and team formation
+- Learn how to use NetLogo 
+- Come up with the exact problem statement.
 
 ### Week 3-4
-Gather information about the problem and understand and decide the control parameters for the simulation. Set up a basic simulation using the same.
+- Gather information about the problem and understand and decide the control parameters for the simulation. 
+- Set up a basic simulation using NetLogo
 
 ### Week 5-6
-Write mathematical models and AI/ML based algorithms to optimize the parameter values used in the simulation to find the best solution.
+- Make a more nuanced simulation model
+- Optimize the parameter values used in the simulation to find the best solution using different ways - intuition, mathematical models, AI/ML based algorithms
 
 ### Week 7-8
-Obtain results by running the simulations along with the models and present them in a proper format.
+- Obtain results by running the simulations along with the models 
+- Documentation and inferences using plots
 
 
 ## Team
